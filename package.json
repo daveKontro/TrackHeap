@@ -1,6 +1,6 @@
 {
   "name": "track-heap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Schedule a periodic dump of the V8 heap.",
   "main": "index.js",
   "scripts": {
