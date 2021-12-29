@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/daveKontro/TrackHeap.git"
   },
-  "keywords": [],
+  "keywords": ["V8 heap", "cron", "schedule"],
   "author": "daveKontro",
   "license": "MIT",
   "bugs": {
