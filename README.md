@@ -1,2 +1,2 @@
 # TrackHeap
-Schedule a periodic, concurrent dump of the V8 heap.
+Schedule a periodic dump of the V8 heap.
